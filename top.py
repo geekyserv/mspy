@@ -2,7 +2,7 @@
 
 import os,sys
 
-sys.path.insert(0,r"c:\python32\projects\mygit")
+#sys.path.insert(0,r"c:\python32\projects\mygit")
 
 from tmd import TestClass
 
