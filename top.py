@@ -12,3 +12,5 @@ for i in range(3):
     t.method()
 
 print (t.attr1)
+
+input()
